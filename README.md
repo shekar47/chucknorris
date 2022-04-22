@@ -1,6 +1,6 @@
 # Random Chuck Norris Jokes
 
-**Tutorial**: []().
+**Tutorial**: [How to Deploy Node.js Applications with Docker](https://betterstack.com/community/guides/scaling-nodejs/dockerize-nodejs/).
 
 ![Screenshot or GIF of the application in action](screenshot.png)
 
